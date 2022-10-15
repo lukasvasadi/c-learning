@@ -1,2 +1,3 @@
-# c-learning
-Classroom exercises to practice C programming
+# C
+
+Classroom exercises to practice C programming.
