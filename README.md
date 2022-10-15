@@ -6,30 +6,30 @@ Classroom exercises to practice C programming.
 
 1. **Install GCC toolchain**
 
-For Mac (requires Homebrew):
+  For Mac (requires Homebrew):
 
-```zsh
-brew install gcc@11
-```
+  ```zsh
+  brew install gcc@11
+  ```
 
-For Linux (requires a Debian-based distribution):
+  For Linux (requires a Debian-based distribution):
 
-```bash
-sudo apt update
-sudo apt install build-essential
-sudo apt-get install manpages-dev
-```
+  ```bash
+  sudo apt update
+  sudo apt install build-essential
+  sudo apt-get install manpages-dev
+  ```
 
-For Windows (requires Chocolatey):
+  For Windows (requires Chocolatey):
 
-```ps1
-choco install mingw
-```
+  ```ps1
+  choco install mingw
+  ```
 
 2. **Create binary executable**
 
-Compile `main.c` to `program` executable (substitute for other source files):
+  Compile `main.c` to `program` executable (substitute for other source files):
 
-```zsh
-gcc main.c -o program
-```
+  ```zsh
+  gcc main.c -o program
+  ```
